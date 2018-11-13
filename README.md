@@ -2,3 +2,5 @@
 Continuation of DSA1 with Prof. Sable:
 
 Assignment 1: This program implements a hash table to create a spell-checking program.  A dictionary is loaded into the hash table and it is used to check an input file provided by the user. 
+
+Assignment 2: This program allows a user to manipulate a binary heap, which is dependent on the previously implemented hash table. 
