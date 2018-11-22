@@ -29,7 +29,6 @@ void graph::insert(const std::string &input)
 
 	// Split up command into proper tokens
 	std::istringstream iss(input);
-	//std::getline(iss, line, ' ');
 	iss >> name1 >> name2 >> weight;
 
 	// First node
